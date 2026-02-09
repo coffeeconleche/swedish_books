@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BASIC Svenska — Audio Edition</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="favicon.png" type="image/png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="title-block">
+      <!-- <div class="eyebrow">BASIC Svenska</div> -->
+      <h1>Svenska i Engelska parken 1 with audio</h1>
+      <p>Tap a green speaker to play the audio.</p>
+    </div>
+    <div class="player-block">
+      <audio id="player" controls preload="none"></audio>
+      <div id="now-playing" class="now-playing">Ready.</div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <div id="thumbs" class="thumbs" aria-label="Page thumbnails"></div>
+    <div id="book" class="book"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
