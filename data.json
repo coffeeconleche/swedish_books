@@ -38,7 +38,7 @@
       "hotspots": [
         {
           "chapter": "1.1",
-          "audio": "audio_files/Kap 1.1 Va\u0308lkommen.mp3",
+          "audio": "audio_files/Kap 1.1 V\u00e4lkommen.mp3",
           "x": 0.117607524469693,
           "y": 0.1211516558229557,
           "w": 0.04368279480302883,
@@ -113,7 +113,7 @@
         },
         {
           "chapter": "1.7",
-          "audio": "audio_files/Kap 1.7 A\u030alder.mp3",
+          "audio": "audio_files/Kap 1.7 \u00c5lder.mp3",
           "x": 0.117607524469693,
           "y": 0.3658304901320623,
           "w": 0.04368279480302883,
@@ -213,7 +213,7 @@
       "hotspots": [
         {
           "chapter": "2.2",
-          "audio": "audio_files/Kap 2.2 Pa\u030a turistbyra\u030an.mp3",
+          "audio": "audio_files/Kap 2.2 P\u00e5 turistbyr\u00e5n.mp3",
           "x": 0.117607524469693,
           "y": 0.07839224788544193,
           "w": 0.04368279480302883,
@@ -230,7 +230,7 @@
       "hotspots": [
         {
           "chapter": "2.3",
-          "audio": "audio_files/Kap 2.3 Va\u0308der.mp3",
+          "audio": "audio_files/Kap 2.3 V\u00e4der.mp3",
           "x": 0.117607524469693,
           "y": 0.07839224788544193,
           "w": 0.04368279480302883,
@@ -238,7 +238,7 @@
         },
         {
           "chapter": "2.4",
-          "audio": "audio_files/Kap 2.4 va\u0308derfraser.mp3",
+          "audio": "audio_files/Kap 2.4 v\u00e4derfraser.mp3",
           "x": 0.117607524469693,
           "y": 0.17341315441325034,
           "w": 0.04368279480302883,
@@ -263,7 +263,7 @@
         },
         {
           "chapter": "2.6",
-          "audio": "audio_files/Kap 2.6 Sa\u030a ha\u0308r sa\u0308ger man.mp3",
+          "audio": "audio_files/Kap 2.6 S\u00e5 h\u00e4r s\u00e4ger man.mp3",
           "x": 0.117607524469693,
           "y": 0.40858989806957613,
           "w": 0.04368279480302883,
@@ -280,7 +280,7 @@
       "hotspots": [
         {
           "chapter": "3.1",
-          "audio": "audio_files/Kap 3.1 Ha\u0308r bor Uppsalas studenter.mp3",
+          "audio": "audio_files/Kap 3.1 H\u00e4r bor Uppsalas studenter.mp3",
           "x": 0.117607524469693,
           "y": 0.12827822381254134,
           "w": 0.04368279480302883,
@@ -297,7 +297,7 @@
       "hotspots": [
         {
           "chapter": "3.2",
-          "audio": "audio_files/Kap 3.2 Fo\u0308rsta morgonen i korridorko\u0308ket.mp3",
+          "audio": "audio_files/Kap 3.2 F\u00f6rsta morgonen i korridork\u00f6ket.mp3",
           "x": 0.11129,
           "y": 0.0751,
           "w": 0.05468,
@@ -314,7 +314,7 @@
       "hotspots": [
         {
           "chapter": "3.3",
-          "audio": "audio_files/Kap 3.3 Vad go\u0308r du.mp3",
+          "audio": "audio_files/Kap 3.3 Vad g\u00f6r du.mp3",
           "x": 0.117607524469693,
           "y": 0.07839224788544193,
           "w": 0.04368279480302883,
@@ -347,7 +347,7 @@
         },
         {
           "chapter": "3.5",
-          "audio": "audio_files/Kap 3.5 Ma\u030anader.mp3",
+          "audio": "audio_files/Kap 3.5 M\u00e5nader.mp3",
           "x": 0.11067,
           "y": 0.33041,
           "w": 0.04969,
@@ -355,7 +355,7 @@
         },
         {
           "chapter": "3.6",
-          "audio": "audio_files/Kap 3.6 A\u030arstider.mp3",
+          "audio": "audio_files/Kap 3.6 \u00c5rstider.mp3",
           "x": 0.10497,
           "y": 0.6108,
           "w": 0.05737,
@@ -372,7 +372,7 @@
       "hotspots": [
         {
           "chapter": "3.7",
-          "audio": "audio_files/Kap 3.7 A\u030ar.mp3",
+          "audio": "audio_files/Kap 3.7 \u00c5r.mp3",
           "x": 0.117607524469693,
           "y": 0.07839224788544193,
           "w": 0.04368279480302883,
@@ -397,7 +397,7 @@
       "hotspots": [
         {
           "chapter": "4.1",
-          "audio": "audio_files/Kap 4.1 Vad ska vi a\u0308ta.mp3",
+          "audio": "audio_files/Kap 4.1 Vad ska vi \u00e4ta.mp3",
           "x": 0.117607524469693,
           "y": 0.12352717848615091,
           "w": 0.04368279480302883,
@@ -414,7 +414,7 @@
       "hotspots": [
         {
           "chapter": "4.2",
-          "audio": "audio_files/Kap 4.2 Pa\u030a ICA Va\u0308st.mp3",
+          "audio": "audio_files/Kap 4.2 P\u00e5 ICA V\u00e4st.mp3",
           "x": 0.117607524469693,
           "y": 0.07839224788544193,
           "w": 0.04368279480302883,
@@ -422,7 +422,7 @@
         },
         {
           "chapter": "4.3",
-          "audio": "audio_files/Kap 4.3 Pa\u030a Ofvandahls konditori.mp3",
+          "audio": "audio_files/Kap 4.3 P\u00e5 Ofvandahls konditori.mp3",
           "x": 0.11088709449999626,
           "y": 0.3349486955105246,
           "w": 0.04368279480302883,
@@ -472,7 +472,7 @@
       "hotspots": [
         {
           "chapter": "5.1",
-          "audio": "audio_files/Kap 5.1 A\u0308r du en riktig Uppsalastudent .mp3",
+          "audio": "audio_files/Kap 5.1 \u00c4r du en riktig Uppsalastudent .mp3",
           "x": 0.117607524469693,
           "y": 0.1425313597917126,
           "w": 0.04368279480302883,
@@ -497,7 +497,7 @@
       "hotspots": [
         {
           "chapter": "5.2",
-          "audio": "audio_files/Kap 5.2 Na\u0308r ga\u030ar bussen.mp3",
+          "audio": "audio_files/Kap 5.2 N\u00e4r g\u00e5r bussen.mp3",
           "x": 0.117607524469693,
           "y": 0.07839224788544193,
           "w": 0.04368279480302883,
@@ -522,7 +522,7 @@
       "hotspots": [
         {
           "chapter": "5.3",
-          "audio": "audio_files/Kap 5.3 Vema\u0308rvem.mp3",
+          "audio": "audio_files/Kap 5.3 Vem\u00e4rvem.mp3",
           "x": 0.11424730948484463,
           "y": 0.35632839947928147,
           "w": 0.04368279480302883,
@@ -555,7 +555,7 @@
       "hotspots": [
         {
           "chapter": "5.4",
-          "audio": "audio_files/Kap 5.4 Sa\u030aha\u0308r sa\u0308ger man.mp3",
+          "audio": "audio_files/Kap 5.4 S\u00e5h\u00e4r s\u00e4ger man.mp3",
           "x": 0.117607524469693,
           "y": 0.07601672522224671,
           "w": 0.04368279480302883,
@@ -572,7 +572,7 @@
       "hotspots": [
         {
           "chapter": "6.1",
-          "audio": "audio_files/Kap 6.1 Korridorliv studentens va\u0308rld.mp3",
+          "audio": "audio_files/Kap 6.1 Korridorliv studentens v\u00e4rld.mp3",
           "x": 0.11125,
           "y": 0.1202,
           "w": 0.03739,
@@ -580,7 +580,7 @@
         },
         {
           "chapter": "6.2",
-          "audio": "audio_files/Kap 6.2 Regler i ko\u0308ket.mp3",
+          "audio": "audio_files/Kap 6.2 Regler i k\u00f6ket.mp3",
           "x": 0.10633,
           "y": 0.43164,
           "w": 0.05251,
@@ -614,7 +614,7 @@
       "hotspots": [
         {
           "chapter": "6.4",
-          "audio": "audio_files/Kap 6.4 mo\u0308bler.mp3",
+          "audio": "audio_files/Kap 6.4 m\u00f6bler.mp3",
           "x": 0.117607524469693,
           "y": 0.372957058121648,
           "w": 0.04368279480302883,
@@ -639,7 +639,7 @@
       "hotspots": [
         {
           "chapter": "6.6",
-          "audio": "audio_files/Kap 6.6 ko\u0308pa mo\u0308bler.mp3",
+          "audio": "audio_files/Kap 6.6 k\u00f6pa m\u00f6bler.mp3",
           "x": 0.117607524469693,
           "y": 0.07839224788544193,
           "w": 0.04368279480302883,
@@ -689,7 +689,7 @@
       "hotspots": [
         {
           "chapter": "7.2",
-          "audio": "audio_files/Kap 7.2 Pa\u030a puben.mp3",
+          "audio": "audio_files/Kap 7.2 P\u00e5 puben.mp3",
           "x": 0.10416666453029952,
           "y": 0.08076777054863714,
           "w": 0.04368279480302883,
@@ -731,7 +731,7 @@
       "hotspots": [
         {
           "chapter": "7.4",
-          "audio": "audio_files/Kap 7.4 Kla\u0308der.mp3",
+          "audio": "audio_files/Kap 7.4 Kl\u00e4der.mp3",
           "x": 0.117607524469693,
           "y": 0.07839224788544193,
           "w": 0.04368279480302883,
@@ -764,7 +764,7 @@
       "hotspots": [
         {
           "chapter": "7.5",
-          "audio": "audio_files/Kap 7.5 A\u030asikter.mp3",
+          "audio": "audio_files/Kap 7.5 \u00c5sikter.mp3",
           "x": 0.096,
           "y": 0.18418,
           "w": 0.05029,
@@ -789,7 +789,7 @@
       "hotspots": [
         {
           "chapter": "8.1",
-          "audio": "audio_files/Kap 8.1 jag ma\u030ar inte bra.mp3",
+          "audio": "audio_files/Kap 8.1 jag m\u00e5r inte bra.mp3",
           "x": 0.117607524469693,
           "y": 0.12352717848615091,
           "w": 0.04368279480302883,
@@ -797,7 +797,7 @@
         },
         {
           "chapter": "8.2",
-          "audio": "audio_files/Kap 8.2 Jag ma\u030ar inte bra dialog.mp3",
+          "audio": "audio_files/Kap 8.2 Jag m\u00e5r inte bra dialog.mp3",
           "x": 0.117607524469693,
           "y": 0.29931585556259643,
           "w": 0.04368279480302883,
@@ -831,7 +831,7 @@
       "hotspots": [
         {
           "chapter": "8.4",
-          "audio": "audio_files/Kap 8.4 Pa\u030a campus 1477.MP3",
+          "audio": "audio_files/Kap 8.4 P\u00e5 campus 1477.MP3",
           "x": 0.11016,
           "y": 0.07101,
           "w": 0.05195,
@@ -839,7 +839,7 @@
         },
         {
           "chapter": "8.5",
-          "audio": "audio_files/Kap 8.5 Fo\u0308lj instruktionerna gympa.mp3",
+          "audio": "audio_files/Kap 8.5 F\u00f6lj instruktionerna gympa.mp3",
           "x": 0.11494,
           "y": 0.56387,
           "w": 0.04963,
