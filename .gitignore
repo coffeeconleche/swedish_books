@@ -2,3 +2,4 @@
 *.pdf
 add_audio_links.py
 build_site.py
+requirements.txt
